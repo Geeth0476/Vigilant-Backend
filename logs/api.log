@@ -1,0 +1,38 @@
+[08-Feb-2026 07:50:07 Europe/Berlin] Login Request: {"device_id":"6805087a-f99f-4cd9-a47a-f3f04610d903","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 07:50:10 Europe/Berlin] Login Request: {"device_id":"6805087a-f99f-4cd9-a47a-f3f04610d903","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"1234568"}
+[08-Feb-2026 07:54:46 Europe/Berlin] Login Request: {"device_id":"409a64d4-e37b-4e68-b842-cbaf8001a59c","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 07:55:36 Europe/Berlin] Login Request: {"device_id":"175a0f07-b43b-4d18-a1a8-01b2d2c98572","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 07:58:15 Europe/Berlin] Login Request: {"device_id":"e924ec34-4a11-4ae2-bae7-511fd1dee3cc","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:18:18 Europe/Berlin] Aggregated Threat Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reporter_count' in 'field list'
+[08-Feb-2026 12:18:33 Europe/Berlin] Login Request: {"device_id":"c8cdcde0-8361-4032-872a-fad92f49448b","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:22:00 Europe/Berlin] Login Request: {"device_id":"f77b06d5-d8ce-4c8f-b37c-9fcfd2f6833d","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:39:20 Europe/Berlin] Login Request: {"device_id":"bced3f9a-9216-4d59-bc68-184faa681eec","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:40:17 Europe/Berlin] Login Request: {"device_id":"2e9ddac6-46ee-4c8d-9410-70f831a87393","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:40:38 Europe/Berlin] Login Request: {"device_id":"53f5720e-279d-4121-9f45-29d8f7fb9b53","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 12:55:14 Europe/Berlin] Login Request: {"device_id":"cc735e11-7d66-492b-9ff9-eb0161cca35b","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 13:16:48 Europe/Berlin] Login Request: {"device_id":"1051115b-db65-4409-b7bf-4086e45e59ea","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 13:17:36 Europe/Berlin] Feedback Email Failed: Undefined constant "SMTP_HOST"
+[08-Feb-2026 13:19:10 Europe/Berlin] Feedback Email Failed: Undefined constant "SMTP_HOST"
+[08-Feb-2026 13:48:57 Europe/Berlin] Feedback Email Failed: Undefined constant "SMTP_HOST"
+[08-Feb-2026 13:49:04 Europe/Berlin] Feedback Email Failed: Undefined constant "SMTP_HOST"
+[08-Feb-2026 13:50:13 Europe/Berlin] Feedback Email Failed: Undefined constant "SMTP_HOST"
+[08-Feb-2026 13:55:27 Europe/Berlin] Login Request: {"device_id":"2581666c-bb14-46a4-9a7b-6760ea5520b5","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[08-Feb-2026 13:55:30 Europe/Berlin] Login Request: {"device_id":"2581666c-bb14-46a4-9a7b-6760ea5520b5","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"1234567"}
+[08-Feb-2026 13:57:07 Europe/Berlin] Login Request: {"device_id":"88e7810e-117b-440b-b250-9622cfb661bc","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[09-Feb-2026 07:48:42 Europe/Berlin] Aggregated Threat Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reporter_count' in 'field list'
+[09-Feb-2026 07:51:33 Europe/Berlin] Login Request: {"device_id":"d9acc604-33e4-4a8d-84e7-3b6beb839df7","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[09-Feb-2026 07:58:01 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:03 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:06 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:06 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:06 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:07 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:09 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:09 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:09 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:09 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:32 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[09-Feb-2026 07:58:33 Europe/Berlin] ForgotPassword: Email found geethnanigoli@gmail.com (ID: 1)
+[17-Feb-2026 04:45:38 Europe/Berlin] Login Request: {"device_id":"c03f96e8-6dd6-467f-9ade-82eb7f31a90f","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}
+[17-Feb-2026 04:46:17 Europe/Berlin] SMTP Error: Could not connect to host. 10060 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[17-Feb-2026 04:46:17 Europe/Berlin] Feedback Email Failed: SMTPClient returned false

@@ -1,0 +1,1 @@
+{"device_id":"c03f96e8-6dd6-467f-9ade-82eb7f31a90f","device_model":"I2221","email":"geethnanigoli@gmail.com","os_version":"Android 15","password":"123456"}

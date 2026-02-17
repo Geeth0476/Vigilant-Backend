@@ -1,0 +1,6 @@
+Register Input: {"email":"geethnanigoli@gmail.com","full_name":"Geeth Goli","password":"123456"}
+Register Input: {"email":"geethnanigoli@gmail.com","full_name":"Geeth","password":"123456"}
+Register Input: {"email":"goligeeth282004@gmail.com","full_name":"Geeth","password":"123456"}
+Register Input: {"email":"goligeeth282004@gmail.com","full_name":"Geeth Goli","password":"123456"}
+Register Input: {"email":"goligeeth282004@gmail.com","full_name":"Geeth Goli","password":"1234567"}
+Register Input: {"email":"goligeeth282004@gmail.com","full_name":"Geeth Goli","password":"1234567"}

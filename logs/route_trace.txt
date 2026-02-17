@@ -1,0 +1,112 @@
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: verify-otp
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: revoke-all
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: reset-password
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: change-password
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: resend-otp
+Controller instantiated.
+Loaded routes_auth.php. Action: register
+Controller instantiated.
+Calling register()...
+Loaded routes_auth.php. Action: verify-otp
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: forgot-password
+Controller instantiated.
+Loaded routes_auth.php. Action: login
+Controller instantiated.
